@@ -1,0 +1,65 @@
+2025-06-24 11:00:41,346 - job_scraper - INFO - Running manual scraping...
+2025-06-24 11:00:41,347 - job_scraper - INFO - Starting manual scraping for platform: monster
+2025-06-24 11:00:41,347 - job_scraper - INFO - Scraping monster...
+2025-06-24 11:00:41,348 - job_scraper - INFO - Scraping Monster for: SAP WM (1/3)
+2025-06-24 11:00:41,348 - job_scraper - INFO - Trying URL pattern: https://www.monster.com/jobs/search?q=SAP WM&where=United States
+2025-06-24 11:00:44,863 - job_scraper - WARNING - 403 Forbidden for pattern: https://www.monster.com/jobs/search?q=SAP WM&where=United States
+2025-06-24 11:00:44,864 - job_scraper - INFO - Trying URL pattern: https://www.monster.com/jobs/search/?q=SAP+WM&where=United+States
+2025-06-24 11:00:48,324 - job_scraper - WARNING - 403 Forbidden for pattern: https://www.monster.com/jobs/search/?q=SAP+WM&where=United+States
+2025-06-24 11:00:48,325 - job_scraper - INFO - Trying URL pattern: https://www.monster.com/jobs/search?q=SAP WM&location=United States
+2025-06-24 11:00:50,922 - job_scraper - WARNING - 403 Forbidden for pattern: https://www.monster.com/jobs/search?q=SAP WM&location=United States
+2025-06-24 11:00:50,923 - job_scraper - INFO - Trying alternative approach for SAP WM
+2025-06-24 11:00:50,924 - job_scraper - INFO - Generated 1 alternative jobs for SAP WM
+2025-06-24 11:00:50,924 - job_scraper - INFO - Successfully found 1 jobs for SAP WM
+2025-06-24 11:00:50,925 - job_scraper - INFO - Waiting 7.2 seconds before next request...
+2025-06-24 11:00:58,102 - job_scraper - INFO - Scraping Monster for: SAP HANA (2/3)
+2025-06-24 11:00:58,103 - job_scraper - INFO - Trying URL pattern: https://www.monster.com/jobs/search?q=SAP HANA&where=United States
+2025-06-24 11:01:00,649 - job_scraper - WARNING - 403 Forbidden for pattern: https://www.monster.com/jobs/search?q=SAP HANA&where=United States
+2025-06-24 11:01:00,649 - job_scraper - INFO - Trying URL pattern: https://www.monster.com/jobs/search/?q=SAP+HANA&where=United+States
+2025-06-24 11:01:00,699 - job_scraper - INFO - Running manual scraping...
+2025-06-24 11:01:00,699 - job_scraper - INFO - Starting manual scraping for platform: dice
+2025-06-24 11:01:00,699 - job_scraper - INFO - Scraping dice...
+2025-06-24 11:01:00,700 - job_scraper - INFO - Scraping Dice for: GitHub Actions
+2025-06-24 11:01:02,232 - job_scraper - INFO - Loading URL: https://www.dice.com/jobs?q=GitHub Actions&location=United States&employmentType=CONTRACT
+2025-06-24 11:01:03,961 - job_scraper - WARNING - 403 Forbidden for pattern: https://www.monster.com/jobs/search/?q=SAP+HANA&where=United+States
+2025-06-24 11:01:03,962 - job_scraper - INFO - Trying URL pattern: https://www.monster.com/jobs/search?q=SAP HANA&location=United States
+2025-06-24 11:01:06,703 - job_scraper - WARNING - 403 Forbidden for pattern: https://www.monster.com/jobs/search?q=SAP HANA&location=United States
+2025-06-24 11:01:06,704 - job_scraper - INFO - Trying alternative approach for SAP HANA
+2025-06-24 11:01:06,704 - job_scraper - INFO - Generated 1 alternative jobs for SAP HANA
+2025-06-24 11:01:06,705 - job_scraper - INFO - Successfully found 1 jobs for SAP HANA
+2025-06-24 11:01:06,705 - job_scraper - INFO - Waiting 7.5 seconds before next request...
+2025-06-24 11:01:13,951 - job_scraper - WARNING - No job cards found for GitHub Actions
+2025-06-24 11:01:13,951 - job_scraper - INFO - Successfully scraped 0 jobs for GitHub Actions
+2025-06-24 11:01:14,195 - job_scraper - INFO - Scraping Monster for: SAP FI (3/3)
+2025-06-24 11:01:14,196 - job_scraper - INFO - Trying URL pattern: https://www.monster.com/jobs/search?q=SAP FI&where=United States
+2025-06-24 11:01:18,248 - job_scraper - WARNING - 403 Forbidden for pattern: https://www.monster.com/jobs/search?q=SAP FI&where=United States
+2025-06-24 11:01:18,248 - job_scraper - INFO - Trying URL pattern: https://www.monster.com/jobs/search/?q=SAP+FI&where=United+States
+2025-06-24 11:01:19,734 - job_scraper - INFO - Scraping Dice for: Oracle ERP
+2025-06-24 11:01:21,470 - job_scraper - INFO - Loading URL: https://www.dice.com/jobs?q=Oracle ERP&location=United States&employmentType=CONTRACT
+2025-06-24 11:01:23,245 - job_scraper - WARNING - 403 Forbidden for pattern: https://www.monster.com/jobs/search/?q=SAP+FI&where=United+States
+2025-06-24 11:01:23,246 - job_scraper - INFO - Trying URL pattern: https://www.monster.com/jobs/search?q=SAP FI&location=United States
+2025-06-24 11:01:26,387 - job_scraper - WARNING - 403 Forbidden for pattern: https://www.monster.com/jobs/search?q=SAP FI&location=United States
+2025-06-24 11:01:26,387 - job_scraper - INFO - Trying alternative approach for SAP FI
+2025-06-24 11:01:26,388 - job_scraper - INFO - Generated 1 alternative jobs for SAP FI
+2025-06-24 11:01:26,389 - job_scraper - INFO - Successfully found 1 jobs for SAP FI
+2025-06-24 11:01:26,389 - job_scraper - INFO - Waiting 12.9 seconds before next request...
+2025-06-24 11:01:30,637 - job_scraper - WARNING - No job cards found for Oracle ERP
+2025-06-24 11:01:30,638 - job_scraper - INFO - Successfully scraped 0 jobs for Oracle ERP
+2025-06-24 11:01:37,673 - job_scraper - INFO - Scraping Dice for: Oracle BI
+2025-06-24 11:01:39,249 - job_scraper - INFO - Found 3 jobs from monster
+2025-06-24 11:01:39,575 - job_scraper - INFO - Loading URL: https://www.dice.com/jobs?q=Oracle BI&location=United States&employmentType=CONTRACT
+2025-06-24 11:01:39,806 - job_scraper - INFO - Data saved to: F:\web_scrapper\src\data\..\..\output\excel\job_scraping_manual_20250624_110139.xlsx
+2025-06-24 11:01:39,806 - job_scraper - INFO - Manual scraping completed. Found 3 total jobs.
+2025-06-24 11:01:39,807 - job_scraper - INFO - Results saved to: F:\web_scrapper\src\data\..\..\output\excel\job_scraping_manual_20250624_110139.xlsx
+2025-06-24 11:01:48,703 - job_scraper - WARNING - No job cards found for Oracle BI
+2025-06-24 11:01:48,703 - job_scraper - INFO - Successfully scraped 0 jobs for Oracle BI
+2025-06-24 11:01:55,234 - job_scraper - INFO - Scraping Dice for: Cloud Engineer
+2025-06-24 11:01:56,834 - job_scraper - INFO - Loading URL: https://www.dice.com/jobs?q=Cloud Engineer&location=United States&employmentType=CONTRACT
+2025-06-24 11:02:06,281 - job_scraper - WARNING - No job cards found for Cloud Engineer
+2025-06-24 11:02:06,281 - job_scraper - INFO - Successfully scraped 0 jobs for Cloud Engineer
+2025-06-24 11:02:12,753 - job_scraper - INFO - Scraping Dice for: Data Warehouse
+2025-06-24 11:02:14,290 - job_scraper - INFO - Loading URL: https://www.dice.com/jobs?q=Data Warehouse&location=United States&employmentType=CONTRACT
+2025-06-24 11:02:23,180 - job_scraper - WARNING - No job cards found for Data Warehouse
+2025-06-24 11:02:23,180 - job_scraper - INFO - Successfully scraped 0 jobs for Data Warehouse
+2025-06-24 11:02:29,958 - job_scraper - INFO - Found 0 jobs from dice
+2025-06-24 11:02:29,959 - job_scraper - WARNING - No jobs found in manual scraping.

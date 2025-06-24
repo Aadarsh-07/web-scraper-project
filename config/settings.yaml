@@ -1,0 +1,36 @@
+# Job Scraper Configuration
+
+# Scraping settings
+scraping:
+  max_jobs_per_platform: 50
+  delay_between_requests: 2
+  timeout: 30
+  retry_attempts: 3
+
+# Platform settings
+platforms:
+  linkedin:
+    enabled: true
+    base_url: "https://www.linkedin.com/jobs/search"
+    requires_login: false
+  
+  monster:
+    enabled: true
+    base_url: "https://www.monster.com/jobs/search"
+    requires_login: false
+  
+  dice:
+    enabled: true
+    base_url: "https://www.dice.com/jobs"
+    requires_login: false
+
+# Output settings
+output:
+  excel_filename_format: "job_scraping_{date}_{time}.xlsx"
+  include_summary_sheets: true
+  
+# Logging settings
+logging:
+  level: "INFO"
+  log_to_file: true
+  log_filename_format: "scraper_{date}.log"

@@ -1,0 +1,24 @@
+# Web scraping
+requests
+beautifulsoup4
+selenium
+scrapy
+
+# Data processing
+pandas
+openpyxl
+xlsxwriter
+
+# Scheduling
+schedule
+crontab
+
+# Configuration
+pyyaml
+python-dotenv
+
+# Logging
+loguru
+
+# Testing
+pytest
